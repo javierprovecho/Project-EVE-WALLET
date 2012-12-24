@@ -1,0 +1,4 @@
+deny from all
+ErrorDocument 403 http://dartekstudios.com/trials/eveapi/index.php
+ErrorDocument 404 http://dartekstudios.com/trials/eveapi/index.php
+ErrorDocument 500 http://dartekstudios.com/trials/eveapi/index.php
